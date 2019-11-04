@@ -1,0 +1,2 @@
+# .netcoregettingstarted
+Testing purpose
